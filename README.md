@@ -20,7 +20,6 @@ The game demonstrates the following features:
 - **High Score:** Achieve the best time to complete the maze and see your high score updated.
 - **Progressive Difficulty:** As you advance through levels, the mazes become more complex, and the number of hurdles and traps increases.
 
-![Logo](https://drive.google.com/uc?export=view&id=1Aj013gmumZnCrGa_Zr9Q_tnoCnH8tweD)
 
 ## Authors
 
